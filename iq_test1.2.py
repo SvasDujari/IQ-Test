@@ -15,7 +15,6 @@ g3 = 0
 g4 = 0
 grade = 0
 final_grade = 0
-BigPP = ((g1 + g2 + g3 + 100) / 4) - ((g1 + g2 + g3) / 3)
 
 """
 imports:
